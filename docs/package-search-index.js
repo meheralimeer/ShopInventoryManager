@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"shopinventorymanager"},{"l":"shopinventorymanager.model"},{"l":"shopinventorymanager.ui"},{"l":"shopinventorymanager.utils"}];updateSearchResults();
